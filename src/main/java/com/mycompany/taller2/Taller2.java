@@ -6,8 +6,12 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
 /**
- *
- * @author Jaylo
+ *Autores:
+ * Samuel Aroca
+ * Jim Diaz Del Castillo
+ * Hamlet Pirazán
+ * Giancarlo Cabrera
+ * 
  */
 public class Taller2 {
 
